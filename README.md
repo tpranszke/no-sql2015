@@ -1,14 +1,14 @@
 # no-sql2015
 
 Zaliczenie:
-  [ ] EDA
-  [ ] GeoJSON
+  1. EDA
+  2. GeoJSON
 
 Egzamin:
-  [ ] Aggregation Pipeline
+  1. Aggregation Pipeline
 
 Informacje dotyczące jednostki:
-    Procesor: AMD Phenom II X6 1045T, 2.7 GHz
-    RAM:      16GB DDR3, 
-    HDD:      Seagate 160GB, 300/100 MB/s (zew/wew)
-    OS:       Ubuntu 14.04.1 LTS x64
+    1. Procesor: AMD Phenom II X6 1045T, 2.7 GHz
+    2. RAM:      16GB DDR3, 
+    3. HDD:      Seagate 160GB, 300/100 MB/s (zew/wew)
+    4. OS:       Ubuntu 14.04.1 LTS x64
