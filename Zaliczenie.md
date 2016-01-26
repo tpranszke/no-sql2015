@@ -19,7 +19,7 @@ Import trwał:
 
 Rekordów zaimportowanych zostało:
 
-![]()
+![](http://i.imgur.com/D9x3gnJ.png?1)
 
 Rekordy zliczono za pomocą polecenia:
 ```javascript
@@ -38,3 +38,16 @@ Import trwał:
 Rekordów zaimportowanych zostało:
 
 Rekordy zliczono za pomocą polecenia:
+
+
+## Porównanie
+
+- Czas importu:
+
+- Użycie zasobów:
+ 
+- Wyniki:
+
+
+# GeoJSON
+
