@@ -6,7 +6,8 @@ Do wykonania tego zadania wybrałem bazę komentarzy Reddit, która po rozpakowa
 ##Import do MongoDB
 W celu zaimportowania bazy danych użyłem tego polecenia:
 ```javascript
-mongoimport --db RDB --collection Com --file RC_2015-01.json```
+mongoimport --db RDB --collection Com --file RC_2015-01.json
+```
 
 W trakcie importu, tak prezentowało się wykorzystanie zasobów:
 
@@ -18,4 +19,5 @@ Rekordów zaimportowanych zostało:
 
 Rekordy zliczono za pomocą polecenia:
 ```javascript
-db.Com.count()```
+db.Com.count()
+```
