@@ -28,12 +28,18 @@ db.Com.count()
 
 ##Import do PostgreSQL
 W celu zaimportowania bazy danych użyłem tego polecenia:
-
+```javascript
+./pgfutter --pw "ziemniak" json RC_2015-01.json
+```
+Operator --pw określa hasło potrzebne dla PSQL.
 
 W trakcie importu, tak prezentowało się wykorzystanie zasobów:
 
+![](http://i.imgur.com/jWqn9WR.png)
 
 Import trwał:
+
+![](http://i.imgur.com/ZhT4vYU.png)
 
 Rekordów zaimportowanych zostało:
 
