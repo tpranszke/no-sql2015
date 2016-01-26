@@ -1,0 +1,1201 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "RockOut",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.571448922157288,
+          54.409724192873696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Spółdzielnia",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.577317595481873,
+          54.391837416230175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Ygrek",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.569507002830505,
+          54.39398467851738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Xkwadrat",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.568798899650574,
+          54.39372232813321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Kojot",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.60707938671112,
+          54.3795044893131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Szafa",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.65057408809662,
+          54.35209982568007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Irish",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.648093044757843,
+          54.35390996933021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Forteczna",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.640472888946533,
+          54.356479673613265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Browar Spółdzielczy",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.592708110809326,
+          54.38549335666521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Green",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.592810034751892,
+          54.389719715147294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "ScreenPub",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.593448400497437,
+          54.39382695616607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "MCStanley",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.60557198524475,
+          54.39288373261861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Bar Piwny",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.56714129447937,
+          54.40946506517277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Paszcza Lwa",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.554003834724426,
+          54.40860337574042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Arena Pub",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.578567504882812,
+          54.42402362955701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Strefa21",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.579259514808655,
+          54.420665380106854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "ElDorado",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.585208654403687,
+          54.41320820871389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Portal",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.58413577079773,
+          54.41190017654354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Julka",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.58760118484497,
+          54.40896397623874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Soprano",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.594247698783875,
+          54.40222443760269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Corner",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.62955093383789,
+          54.4111384392993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Aquarium",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.636449575424194,
+          54.409333939688096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "T29 Sport",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.638745546340942,
+          54.39046623286903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Sejf",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.58336329460144,
+          54.38413133319045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Scruffy O'Brien",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.608868420124054,
+          54.37712994425019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Cockney",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.614927530288696,
+          54.37624882811894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Stacja Deluxe",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.616644144058228,
+          54.375258331025904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Bifor",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.61682653427124,
+          54.37892336334666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Pub Polufka",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.618966937065125,
+          54.379032715635354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Alternatywa",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.619406819343567,
+          54.37781420224306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Autsajder",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.61061990261078,
+          54.36866794863679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Bunkier",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.654651045799255,
+          54.354599303588394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Degu-Degustatornia",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.659618496894836,
+          54.35411942812839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Pool Salon",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.657456636428833,
+          54.35268602082552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Lamus",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.653106093406677,
+          54.3525922301642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Pułapka",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.652837872505188,
+          54.35280482202255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Absinthe",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.649066686630245,
+          54.35112906812882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Brudershaft",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6485356092453,
+          54.34966585399499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Piwnica",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.648280799388885,
+          54.349307858843844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "107",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.65127682685852,
+          54.34844177907356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "U Szkota",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.654667139053345,
+          54.34873881209813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Flisak`76",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.65451693534851,
+          54.34876695195753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "No to Cyk",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.653725683689117,
+          54.348937354027996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "RedLight",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.65252673625946,
+          54.349381334085535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "nazwa": "Pixel",
+      "marker-color": "#0000FF",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.658301532268524,
+          54.34709572356583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Cooltura",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.657276928424835,
+          54.34719734369663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "RockOut",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.571448922157288,
+          54.409724192873696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Spółdzielnia",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.577317595481873,
+          54.391837416230175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Ygrek",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.569507002830505,
+          54.39398467851738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Xkwadrat",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.568798899650574,
+          54.39372232813321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Kojot",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.60707938671112,
+          54.3795044893131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Szafa",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.65057408809662,
+          54.35209982568007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Irish",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.648093044757843,
+          54.35390996933021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Forteczna",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.640472888946533,
+          54.356479673613265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Browar Spółdzielczy",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.592708110809326,
+          54.38549335666521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Green",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.592810034751892,
+          54.389719715147294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "ScreenPub",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.593448400497437,
+          54.39382695616607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "MCStanley",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.60557198524475,
+          54.39288373261861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Bar Piwny",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.56714129447937,
+          54.40946506517277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Paszcza Lwa",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.554003834724426,
+          54.40860337574042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Arena Pub",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.578567504882812,
+          54.42402362955701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Strefa21",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.579259514808655,
+          54.420665380106854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "ElDorado",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.585208654403687,
+          54.41320820871389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Portal",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.58413577079773,
+          54.41190017654354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Julka",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.58760118484497,
+          54.40896397623874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Soprano",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.594247698783875,
+          54.40222443760269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Corner",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.62955093383789,
+          54.4111384392993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Aquarium",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.636449575424194,
+          54.409333939688096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "T29 Sport",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.638745546340942,
+          54.39046623286903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Sejf",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.58336329460144,
+          54.38413133319045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Scruffy O'Brien",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.608868420124054,
+          54.37712994425019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Cockney",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.614927530288696,
+          54.37624882811894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Stacja Deluxe",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.616644144058228,
+          54.375258331025904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Bifor",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.61682653427124,
+          54.37892336334666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Pub Polufka",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.618966937065125,
+          54.379032715635354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Alternatywa",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.619406819343567,
+          54.37781420224306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Autsajder",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.61061990261078,
+          54.36866794863679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Bunkier",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.654651045799255,
+          54.354599303588394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Degu-Degustatornia",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.659618496894836,
+          54.35411942812839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Pool Salon",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.657456636428833,
+          54.35268602082552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Lamus",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.653106093406677,
+          54.3525922301642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Pułapka",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.652837872505188,
+          54.35280482202255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Absinthe",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.649066686630245,
+          54.35112906812882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Brudershaft",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6485356092453,
+          54.34966585399499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Piwnica",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.648280799388885,
+          54.349307858843844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "107",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.65127682685852,
+          54.34844177907356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "U Szkota",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.654667139053345,
+          54.34873881209813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Flisak`76",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.65451693534851,
+          54.34876695195753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "No to Cyk",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.653725683689117,
+          54.348937354027996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "RedLight",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.65252673625946,
+          54.349381334085535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Pixel",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.658301532268524,
+          54.34709572356583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "marker-color": "#0000FF",
+      "nazwa": "Cooltura",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.657276928424835,
+          54.34719734369663
+        ]
+      }
+    }
+  ]
+}
