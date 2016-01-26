@@ -51,3 +51,9 @@ Rekordy zliczono za pomocą polecenia:
 
 # GeoJSON
 
+Do utworzenia mapy GeoJSON wykorzystałem [geojson.io](http://geojson.io/). Wykonałem mapkę z zaznaczeniem Pubów w Gdańsku. Jest możliwe, że część pominąłem.
+
+*Mapa Pubów*
+
+![](http://i.imgur.com/PO1hKUj.jpg)
+
