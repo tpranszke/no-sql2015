@@ -1,7 +1,7 @@
 # no-sql2015
 
 Zaliczenie:
-  - [ ] EDA
+  - [X] EDA
   - [ ] GeoJSON
 
 Egzamin:
