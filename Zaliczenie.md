@@ -43,16 +43,21 @@ Import trwał:
 
 Rekordów zaimportowanych zostało:
 
-Rekordy zliczono za pomocą polecenia:
+![](http://i.imgur.com/6MQUGLu.png)
 
+Rekordy zliczono za pomocą polecenia:
+```javascript
+\timing
+select count(*) from import.rc_2015_01;
+```
 
 ## Porównanie
 
-- Czas importu:
+- Czas importu: MongoDB zaimportowało bazę w czasie 53 minut i 19 sekund, PostgreSQL natomiasto zaimportował tą samą bazę danych w czasie 1 godziny, 2 minut i 27 sekund czyli o blisko 10 minut dłużej.
 
-- Użycie zasobów:
+- Użycie zasobów: MongoDB w czasie importu zużycie procesora wachało się między 40 a 60% z cyklicznymi skokami +/-20% na każdym rdzeniu, zaś pamięć powoli wzrastała od 10 do 50%. W przypadku PostgreSQL zużycie procesora nie przekraczało 40%, a pamięci nie przekroczyło 30%, jednakże odczuwalne się stało spowolnione działanie komputera, na skutek operacji na dysku. 
  
-- Wyniki:
+- Wyniki: Obie bazy zostały zaimportowane z tą samą liczbą rekordów, ale czas zliczenia znacząco się różnił. W przypadku MongoDB czas zliczenia nie przekroczył nawet sekundy, natomiast PSQL zliczał przez 733511,301 ms, czyli około 12 minut.
 
 
 # GeoJSON
