@@ -11,13 +11,30 @@ mongoimport --db RDB --collection Com --file RC_2015-01.json
 
 W trakcie importu, tak prezentowało się wykorzystanie zasobów:
 
+![](http://i.imgur.com/TFsTyVI.png)
 
 Import trwał:
 
+![ ](http://i.imgur.com/qyBacdC.png)
 
 Rekordów zaimportowanych zostało:
+
+![]()
 
 Rekordy zliczono za pomocą polecenia:
 ```javascript
 db.Com.count()
 ```
+
+##Import do PostgreSQL
+W celu zaimportowania bazy danych użyłem tego polecenia:
+
+
+W trakcie importu, tak prezentowało się wykorzystanie zasobów:
+
+
+Import trwał:
+
+Rekordów zaimportowanych zostało:
+
+Rekordy zliczono za pomocą polecenia:
