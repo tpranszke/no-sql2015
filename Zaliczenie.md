@@ -57,3 +57,12 @@ Do utworzenia mapy GeoJSON wykorzystałem [geojson.io](http://geojson.io/). Wyko
 
 ![](http://i.imgur.com/PO1hKUj.jpg)
 
+DB zostało zaimportowane do Mongo za pomocą polecenia:
+```javascript
+mongoimport --db PDB --collection Pub --file map.json
+```
+
+Przykładowy rekord, razem z wywołaniem na SS poniżej:
+
+![](http://i.imgur.com/oJemkkh.png?1)
+
