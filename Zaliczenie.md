@@ -66,3 +66,69 @@ Przykładowy rekord, razem z wywołaniem na SS poniżej:
 
 ![](http://i.imgur.com/oJemkkh.png?1)
 
+## Piont
+
+Załóżmy, że umówiliśmy się ze znajomymi na dworcu w Gdańsku Głównym, ale nasz ulubiony Pub jest zamknięty. Dzięki wprowadzeniu nowej wartości oraz temu zapytaniu, możemy znaleźć pobliskie puby w odległości 15 mil.
+
+```javascript
+var GdaDwG = {
+ "type" : "Point",
+	"coordinates" : [
+		18.644378185272213,
+		54.35639370678616
+	]
+}
+
+db.Pub.find({geometry : { $geoWithin : { $centerSphere : [[18.644378, 54.3563394], 15/3963.2]}}})
+```
+
+## Polygon
+
+A teraz załóżmy, że umówiliśmy się w jakimś Pubie przy ul. Długiej. Dzięki temu zapytaniu wyodrębnimy Puby znajdujące się przy ulicy Długiej.
+
+```javascript
+
+
+db.Pub.find({
+ geometry : {
+  $geoWithin : {
+   "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.647457361221313,
+              54.34880916171055
+            ],
+            [
+              18.648948669433594,
+              54.35068510695288
+            ],
+            [
+              18.6518132686615,
+              54.34983468905395
+            ],
+            [
+              18.65349769592285,
+              54.34913433168772
+            ],
+            [
+              18.656147718429565,
+              54.34865908239178
+            ],
+            [
+              18.654967546463013,
+              54.34694563798999
+            ],
+            [
+              18.647457361221313,
+              54.34880916171055
+            ]
+          ]
+        ]
+       }
+      }
+     }
+    }
+  )
+```
